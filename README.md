@@ -1,6 +1,6 @@
 # Lösung Aufgabe 1 - Backend
 
-***[zur Aufgabe](https://github.com/FbW-WD-22-D01/backend_server01_sums/edit/main/README_DE.md)***
+***[zur Aufgabe](https://github.com/FbW-WD-22-D01/backend_server01_sums)***
 
 ### Die Aufgabe:
 *Erstelle ein Programm, das eine auszuführende Operation ("sum" oder "avg") und eine Reihe von Zahlen als Argumente annimmt. Das Programm soll das Ergebnis der Berechnung auf dem Terminal ausgeben.*
